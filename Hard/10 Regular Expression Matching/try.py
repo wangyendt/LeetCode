@@ -2,6 +2,9 @@
 
 
 class Solution:
+    def check(self, s1, s2):
+        return sum(map(lambda ch: s1.count(ch), s2))
+
     def isMatch(self, s: str, p: str) -> bool:
         if len(p) > 1 and len(s) > 1:
             if p[0] == '.' and p[1] != '*':
@@ -10,8 +13,8 @@ class Solution:
 
     def recursive(self, s, p):
         print(s, p)
-        if s == 'ba' and p == 'c*..b*a*':
-            print('ffff')
+        if '.*' in p and self.check('*', p) >= len(p) / 2:
+            return True
         if (not '.' in p) and (not '*' in p) and p != s:
             return False
         if len(p) == 2:
@@ -51,16 +54,12 @@ class Solution:
                             ind += 1
                         return False
                     else:
+                        if p[-2] != s[-1]:
+                            return self.recursive(s, p[:-2])
                         ind = 0
                         while ind < len(s):
                             if ind >= 1 and s[len(s) - 1 - ind] != s[len(s) - 1 - ind + 1]:
-                                return False
-                            if p[-2] != s[len(s) - 1 - ind]:
-                                if (not '.' in p[:-2] and not '*' in p[:-2]) and s[:len(s) - ind] != p[:-2]:
-                                    return False
-                                ret = self.recursive(s[:len(s) - ind], p[:-2])
-                                if ret:
-                                    return ret
+                                break
                             if p[-2] == s[len(s) - 1 - ind]:
                                 ret1 = self.recursive(s[:len(s) - ind], p[:-1])
                                 ret2 = self.recursive(s[:len(s) - ind], p[:-2])
@@ -88,4 +87,6 @@ if __name__ == '__main__':
     # print(so.isMatch('a', 'ab*a'))
     # print(so.isMatch('a', '.*..'))
     # print(so.isMatch("baabbbaccbccacacc", "c*..b*a*a.*a..*c"))
-    print(so.isMatch("cbbbaccbcacbcca", "b*.*b*a*.a*b*.a*"))
+    # print(so.isMatch("cbbbaccbcacbcca", "b*.*b*a*.a*b*.a*"))
+    print(so.isMatch('aababcacabccbacaaba', 'ab*c*c*b..*a*c*a*b*'))
+    # print(so.isMatch("ccacbcbcccabbab",".c*a*aa*b*.*b*.*"))
