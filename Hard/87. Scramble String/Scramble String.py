@@ -56,19 +56,31 @@
 # 
 # Input: s1 = "abcde", s2 = "caebd"
 # Output: false
-#
+
+import bisect
+
 
 class Solution:
     def isScramble(self, s1: str, s2: str) -> bool:
-        if len(s1) == 1:
-            return s2 == s1
-        p, end = 0, 0
-        dic = {}
-        while p <= end < len(s2):
-            if not dic.get(s2[p]):
-                
+        if s1 == s2:
+            return True
+
+        a, b, c = [], [], []
+        for i in range(1, len(s1)):
+            bisect.insort(a, s1[i - 1])
+            bisect.insort(b, s2[- i])
+            bisect.insort(c, s2[i - 1])
+            if a == b:
+                if self.isScramble(s1[i:], s2[:- i]) and self.isScramble(s1[:i], s2[-i:]):
+                    return True
+            elif a == c:
+                if self.isScramble(s1[i:], s2[i:]) and self.isScramble(s1[:i], s2[:i]):
+                    return True
+        return False
 
 
 so = Solution()
 print(so.isScramble('great', 'rgeat'))
 print(so.isScramble('greart', 'rrgeat'))
+print(so.isScramble('abcde', 'caebd'))
+print(so.isScramble("abc", "bca"))
