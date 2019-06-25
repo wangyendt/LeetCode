@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py">
+        <entry file="file://$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="43" column="27" lean-forward="true" selection-start-line="7" selection-end-line="43" selection-end-column="27" />
+            <state relative-caret-position="81">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -77,6 +79,10 @@
         <option value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" />
         <option value="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/a.py" />
         <option value="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py" />
+        <option value="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py" />
+        <option value="$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py" />
+        <option value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" />
+        <option value="$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py" />
       </list>
     </option>
   </component>
@@ -109,13 +115,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="1092. Shortest Common Supersequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="1093. Statistics from a Large Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="1096. Brace Expansion II" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,45 +145,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Shortest Common Supersequence">
-    <configuration name="Largest Values From Labels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Find in Mountain Array">
+    <configuration name="Car Pooling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1094. Car Pooling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels/Largest Values From Labels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recover Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find in Mountain Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -212,22 +206,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shortest Path in Binary Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Statistics from a Large Sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -280,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find in Mountain Array" />
+        <item itemvalue="Python.Car Pooling" />
+        <item itemvalue="Python.Statistics from a Large Sample" />
         <item itemvalue="Python.Shortest Common Supersequence" />
         <item itemvalue="Python.a" />
-        <item itemvalue="Python.Shortest Path in Binary Matrix" />
-        <item itemvalue="Python.Largest Values From Labels" />
-        <item itemvalue="Python.Recover Binary Search Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -305,23 +296,23 @@
       <workItem from="1561012569219" duration="599000" />
       <workItem from="1561339640508" duration="249000" />
       <workItem from="1561340196334" duration="4353000" />
-      <workItem from="1561424240969" duration="18802000" />
+      <workItem from="1561424240969" duration="25526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45650000" />
+    <option name="totallyTimeSpent" value="52374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16152816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16152816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3635135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3635135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +323,7 @@
       <window_info anchor="bottom" id="Statistic" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.5810811" />
+      <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.42702702" />
       <window_info anchor="right" x="0" y="0" width="337" height="678" id="Documentation" sideWeight="0.5032258" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -445,9 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51" />
@@ -498,8 +486,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="43" column="27" lean-forward="true" selection-start-line="7" selection-end-line="43" selection-end-column="27" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#526#675#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="30" />
         </state>
       </provider>
     </entry>
