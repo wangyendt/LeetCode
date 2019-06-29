@@ -10,7 +10,7 @@ import sys
 
 class Solution:
     def shortestPathBinaryMatrix(self, grid: list(list())) -> int:
-        [print(g) for g in grid]
+        # [print(g) for g in grid]
         if grid[0][0] == 1 or grid[-1][-1] == 1:
             return -1
         n = len(grid)
@@ -25,7 +25,7 @@ class Solution:
 
         priorityQueue = [(0, 0, 0)]
         while True:
-            print(priorityQueue)
+            # print(priorityQueue)
             cv, cx, cy = priorityQueue.pop(0)
             for (nx, ny) in helper(cx, cy):
                 # print(cv, nx, ny)
@@ -34,7 +34,7 @@ class Solution:
                     value[nx][ny] = value[cx][cy] + 1
             # print(priorityQueue)
             if priorityQueue:
-                visited.add(priorityQueue[0])
+                visited.add(tuple(priorityQueue[0][1:]))
             else:
                 break
         # print(visited, priorityQueue, value)
@@ -44,6 +44,9 @@ class Solution:
 so = Solution()
 print(so.shortestPathBinaryMatrix([[0, 1], [1, 0]]), 2)
 print(so.shortestPathBinaryMatrix([[0, 0, 0], [1, 1, 0], [1, 1, 0]]), 4)
-print(
-    so.shortestPathBinaryMatrix([[0, 1, 0, 1, 0], [1, 0, 0, 0, 1], [0, 0, 1, 1, 1], [0, 0, 0, 0, 0], [1, 0, 1, 0, 0]]),
-    6)
+print(so.shortestPathBinaryMatrix([[0, 1, 0, 1, 0],
+                                   [1, 0, 0, 0, 1],
+                                   [0, 0, 1, 1, 1],
+                                   [0, 0, 0, 0, 0],
+                                   [1, 0, 1, 0, 0]]),
+      6)
