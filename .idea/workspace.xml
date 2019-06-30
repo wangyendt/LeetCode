@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contests/1099. Two Sum Less Than K/Two Sum Less Than K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py">
+        <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
-              <folding>
-                <element signature="e#197#207#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -91,6 +89,10 @@
         <option value="$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py" />
         <option value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" />
         <option value="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" />
+        <option value="$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" />
+        <option value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
+        <option value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
       </list>
     </option>
   </component>
@@ -107,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,19 +126,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="1091. Shortest Path in Binary Matrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="1102. Path With Maximum Minimum Value" type="462c0819:PsiDirectoryNode" />
+              <item name="1106. Parsing A Boolean Expression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="NBKnowledgePane" />
     </panes>
   </component>
@@ -145,7 +141,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,27 +155,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Path With Maximum Minimum Value">
-    <configuration name="Find K-Length Substrings With No Repeated Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Parsing A Boolean Expression">
+    <configuration name="Distribute Candies to People" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find in Mountain Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Filling Bookcase Shelves" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,14 +183,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Parsing A Boolean Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Path In Zigzag Labelled Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -205,6 +242,9 @@
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -220,73 +260,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shortest Path in Binary Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/Shortest Path in Binary Matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="The Earliest Moment When Everyone Become Friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.Distribute Candies to People" />
+      <item itemvalue="Python.Path With Maximum Minimum Value" />
+      <item itemvalue="Python.Path In Zigzag Labelled Binary Tree" />
+      <item itemvalue="Python.Filling Bookcase Shelves" />
+      <item itemvalue="Python.Parsing A Boolean Expression" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Parsing A Boolean Expression" />
+        <item itemvalue="Python.Filling Bookcase Shelves" />
+        <item itemvalue="Python.Path In Zigzag Labelled Binary Tree" />
+        <item itemvalue="Python.Distribute Candies to People" />
         <item itemvalue="Python.Path With Maximum Minimum Value" />
-        <item itemvalue="Python.Shortest Path in Binary Matrix" />
-        <item itemvalue="Python.The Earliest Moment When Everyone Become Friends" />
-        <item itemvalue="Python.Find K-Length Substrings With No Repeated Characters" />
-        <item itemvalue="Python.Find in Mountain Array" />
       </list>
     </recent_temporary>
   </component>
@@ -309,22 +296,23 @@
       <workItem from="1561340196334" duration="4353000" />
       <workItem from="1561424240969" duration="25526000" />
       <workItem from="1561828946531" duration="5853000" />
+      <workItem from="1561876596980" duration="5691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58227000" />
+    <option name="totallyTimeSpent" value="63918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2287793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23282135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3635135" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36348408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,12 +323,13 @@
       <window_info anchor="bottom" id="Statistic" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.41876048" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.41876048" />
+      <window_info anchor="bottom" id="Tail" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="leetcode" order="3" sideWeight="0.5032258" side_tool="true" weight="0.3297587" />
-      <window_info anchor="right" x="522" y="184" width="492" height="496" id="SciView" order="4" sideWeight="0.4967742" weight="0.3297587" />
+      <window_info anchor="right" auto_hide="true" x="522" y="184" width="492" height="496" id="SciView" order="4" show_stripe_button="false" sideWeight="0.4967742" type="FLOATING" weight="0.32902184" />
       <window_info anchor="right" id="Key Promoter X" order="5" sideWeight="0.60967743" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="6" sideWeight="0.4967742" weight="0.3297587" />
       <window_info anchor="right" x="0" y="0" width="337" height="678" id="Documentation" order="7" sideWeight="0.5032258" side_tool="true" weight="0.3297587" />
@@ -376,11 +365,15 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
     <SUITE FILE_PATH="coverage/LeetCode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1560936441064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/97. Interleaving String" />
     <SUITE FILE_PATH="coverage/LeetCode$a.coverage" NAME="a Coverage Results" MODIFIED="1561468971643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
     <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
+    <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
+    <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
     <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
+    <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
   </component>
@@ -558,11 +551,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+        <state relative-caret-position="27">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="e#197#207#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
