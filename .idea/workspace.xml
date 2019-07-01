@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/BinaryTree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +27,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
+        <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="20">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -52,13 +48,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>key</find>
       <find>val</find>
       <find>butter_bandpass_filter</find>
+      <find>key</find>
     </findStrings>
     <replaceStrings>
-      <replace>val</replace>
       <replace>key</replace>
+      <replace>val</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -71,7 +67,6 @@
         <option value="$PROJECT_DIR$/Hard/87. Scramble String/Scramble String.py" />
         <option value="$PROJECT_DIR$/Hard/97. Interleaving String/a.py" />
         <option value="$PROJECT_DIR$/Hard/97. Interleaving String/Interleaving String.py" />
-        <option value="$PROJECT_DIR$/Tools/BinaryTree.py" />
         <option value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
         <option value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
         <option value="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py" />
@@ -93,6 +88,8 @@
         <option value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
         <option value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
         <option value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
+        <option value="$PROJECT_DIR$/Tools/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
       </list>
     </option>
   </component>
@@ -120,13 +117,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Contests" type="462c0819:PsiDirectoryNode" />
-              <item name="1106. Parsing A Boolean Expression" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,11 +146,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Parsing A Boolean Expression">
+  <component name="RunManager" selected="Python.Binary Tree Maximum Path Sum">
+    <configuration name="Binary Tree Maximum Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Distribute Candies to People" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -223,6 +239,9 @@
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -238,42 +257,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Path With Maximum Minimum Value" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Distribute Candies to People" />
-      <item itemvalue="Python.Path With Maximum Minimum Value" />
       <item itemvalue="Python.Path In Zigzag Labelled Binary Tree" />
       <item itemvalue="Python.Filling Bookcase Shelves" />
       <item itemvalue="Python.Parsing A Boolean Expression" />
+      <item itemvalue="Python.Binary Tree Maximum Path Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Binary Tree Maximum Path Sum" />
         <item itemvalue="Python.Parsing A Boolean Expression" />
         <item itemvalue="Python.Filling Bookcase Shelves" />
         <item itemvalue="Python.Path In Zigzag Labelled Binary Tree" />
         <item itemvalue="Python.Distribute Candies to People" />
-        <item itemvalue="Python.Path With Maximum Minimum Value" />
       </list>
     </recent_temporary>
   </component>
@@ -296,18 +293,19 @@
       <workItem from="1561340196334" duration="4353000" />
       <workItem from="1561424240969" duration="25526000" />
       <workItem from="1561828946531" duration="5853000" />
-      <workItem from="1561876596980" duration="5691000" />
+      <workItem from="1561876596980" duration="6869000" />
+      <workItem from="1562001318853" duration="1224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63918000" />
+    <option name="totallyTimeSpent" value="66320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23282135" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17219079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,6 +369,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
     <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
+    <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
     <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
     <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
@@ -418,13 +417,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1090. Largest Values From Labels/a.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1090. Largest Values From Labels/readme.txt">
@@ -559,31 +551,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="249">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="-304">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
+        <state relative-caret-position="-250">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
+    <entry file="file://$PROJECT_DIR$/Tools/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="146">
+          <caret line="176" column="32" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
         </state>
       </provider>
     </entry>

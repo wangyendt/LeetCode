@@ -9,7 +9,7 @@
 
 class TreeNode:
     def __init__(self, x):
-        self.key = x
+        self.val = x
         self.left = None
         self.right = None
         self.height = 0
@@ -63,7 +63,7 @@ def showTreeNode(tree: TreeNode):
             stack.append(None)
             stack.append(None)
         else:
-            ret.append(tr.key)
+            ret.append(tr.val)
             stack.append(tr.left)
             stack.append(tr.right)
     return ret
@@ -125,28 +125,28 @@ class AVLTree:
 
     """插入元素"""
 
-    def insert(self, key):
+    def insert(self, val):
         if self.root is None:
-            self.root = TreeNode(key)
+            self.root = TreeNode(val)
         else:
-            self.root = self._insert(key, self.root)
+            self.root = self._insert(val, self.root)
 
-    def _insert(self, key, node):
+    def _insert(self, val, node):
         if node is None:
-            node = TreeNode(key)
+            node = TreeNode(val)
 
-        elif key < node.key:  # 左侧插入结点
-            node.left = self._insert(key, node.left)
+        elif val < node.val:  # 左侧插入结点
+            node.left = self._insert(val, node.left)
             if self._unbalance(node):  # 不平衡
-                if key < node.left.key:  # LL不平衡
+                if val < node.left.val:  # LL不平衡
                     node = self._right_rotate(node)  # 右旋
                 else:  # LR不平衡
                     node = self._left_right_rotate(node)  # 先左旋再右旋
 
-        elif key > node.key:  # 右侧插入结点
-            node.right = self._insert(key, node.right)
+        elif val > node.val:  # 右侧插入结点
+            node.right = self._insert(val, node.right)
             if self._unbalance(node):  # 不平衡
-                if key < node.right.key:  # LR不平衡
+                if val < node.right.val:  # LR不平衡
                     node = self._right_left_rotate(node)  # 先右旋再左旋
                 else:  # RR不平衡
                     node = self._left_rotate(node)  # 左旋
@@ -159,20 +159,20 @@ class AVLTree:
     def query(self, val: int) -> (int, int):
         p = self.root
         while p:
-            if val < p.key:
+            if val < p.val:
                 if p.left:
-                    if val < p.left.key:
+                    if val < p.left.val:
                         p = p.left
                     else:
-                        return p.left.key, p.key
+                        return p.left.val, p.val
                 else:
-                    return -1, p.key
+                    return -1, p.val
             else:
                 if p.right:
-                    if val > p.right.key:
+                    if val > p.right.val:
                         p = p.right
                     else:
-                        return p.key, p.right.key
+                        return p.val, p.right.val
                 else:
-                    return p.key, -1
+                    return p.val, -1
         return -1, -1
