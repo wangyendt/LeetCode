@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/443. String Compression/String Compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/129. Sum Root to Leaf Numbers/Sum Root to Leaf Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/130. Surrounded Regions/Surrounded Regions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/131. Palindrome Partitioning/Palindrome Partitioning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +56,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/443. String Compression/String Compression.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medium/129. Sum Root to Leaf Numbers/Sum Root to Leaf Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="39">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medium/130. Surrounded Regions/Surrounded Regions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Medium/131. Palindrome Partitioning/Palindrome Partitioning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -138,6 +163,9 @@
         <option value="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" />
         <option value="$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py" />
         <option value="$PROJECT_DIR$/Easy/443. String Compression/String Compression.py" />
+        <option value="$PROJECT_DIR$/Medium/129. Sum Root to Leaf Numbers/Sum Root to Leaf Numbers.py" />
+        <option value="$PROJECT_DIR$/Medium/130. Surrounded Regions/Surrounded Regions.py" />
+        <option value="$PROJECT_DIR$/Medium/131. Palindrome Partitioning/Palindrome Partitioning.py" />
       </list>
     </option>
   </component>
@@ -166,13 +194,13 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="Medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="443. String Compression" type="462c0819:PsiDirectoryNode" />
+              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="131. Palindrome Partitioning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,29 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find All Anagrams in a String">
-    <configuration name="Binary Tree Maximum Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Palindrome Partitioning">
     <configuration name="Find All Anagrams in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,6 +279,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Palindrome Partitioning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/131. Palindrome Partitioning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/131. Palindrome Partitioning/Palindrome Partitioning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Path Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Word Ladder II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Surrounded Regions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,12 +331,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/126. Word Ladder II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/130. Surrounded Regions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/130. Surrounded Regions/Surrounded Regions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +346,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary Tree Maximum Path Sum" />
-      <item itemvalue="Python.Word Ladder II" />
       <item itemvalue="Python.Palindrome Partitioning II" />
       <item itemvalue="Python.Path Sum III" />
       <item itemvalue="Python.Find All Anagrams in a String" />
+      <item itemvalue="Python.Surrounded Regions" />
+      <item itemvalue="Python.Palindrome Partitioning" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Palindrome Partitioning" />
+        <item itemvalue="Python.Surrounded Regions" />
         <item itemvalue="Python.Find All Anagrams in a String" />
         <item itemvalue="Python.Path Sum III" />
         <item itemvalue="Python.Palindrome Partitioning II" />
-        <item itemvalue="Python.Word Ladder II" />
-        <item itemvalue="Python.Binary Tree Maximum Path Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -358,12 +386,12 @@
       <workItem from="1562076904349" duration="664000" />
       <workItem from="1562081563561" duration="798000" />
       <workItem from="1562082605215" duration="4016000" />
-      <workItem from="1562296264867" duration="12533000" />
+      <workItem from="1562296264867" duration="19833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87112000" />
+    <option name="totallyTimeSpent" value="94412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -374,7 +402,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35285714" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2642857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,6 +459,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1560936441064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/97. Interleaving String" />
     <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
     <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
+    <SUITE FILE_PATH="coverage/LeetCode$Surrounded_Regions.coverage" NAME="Surrounded Regions Coverage Results" MODIFIED="1562412101283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/130. Surrounded Regions" />
     <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
     <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
@@ -438,6 +467,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
     <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning.coverage" NAME="Palindrome Partitioning Coverage Results" MODIFIED="1562412161005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/131. Palindrome Partitioning" />
     <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Word_Ladder_II.coverage" NAME="Word Ladder II Coverage Results" MODIFIED="1562005285049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/126. Word Ladder II" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
@@ -638,8 +668,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/443. String Compression/String Compression.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/129. Sum Root to Leaf Numbers/Sum Root to Leaf Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/130. Surrounded Regions/Surrounded Regions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/131. Palindrome Partitioning/Palindrome Partitioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
