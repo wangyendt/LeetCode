@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/443. String Compression/String Compression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +31,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#306#444#0" />
-              </folding>
+            <state relative-caret-position="201">
+              <caret line="12" selection-start-line="12" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/443. String Compression/String Compression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tools/BinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4752">
+              <caret line="176" column="32" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -96,14 +133,19 @@
         <option value="$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py" />
         <option value="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" />
         <option value="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" />
+        <option value="$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py" />
+        <option value="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" />
+        <option value="$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py" />
+        <option value="$PROJECT_DIR$/Easy/443. String Compression/String Compression.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -113,7 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,19 +166,19 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Hard" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Hard" type="462c0819:PsiDirectoryNode" />
-              <item name="132. Palindrome Partitioning II" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="443. String Compression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Palindrome Partitioning II">
+  <component name="RunManager" selected="Python.Find All Anagrams in a String">
     <configuration name="Binary Tree Maximum Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Filling Bookcase Shelves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Find All Anagrams in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,12 +237,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Parsing A Boolean Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Path Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +281,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/437. Path Sum III" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +318,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Filling Bookcase Shelves" />
-      <item itemvalue="Python.Parsing A Boolean Expression" />
       <item itemvalue="Python.Binary Tree Maximum Path Sum" />
       <item itemvalue="Python.Word Ladder II" />
       <item itemvalue="Python.Palindrome Partitioning II" />
+      <item itemvalue="Python.Path Sum III" />
+      <item itemvalue="Python.Find All Anagrams in a String" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find All Anagrams in a String" />
+        <item itemvalue="Python.Path Sum III" />
         <item itemvalue="Python.Palindrome Partitioning II" />
         <item itemvalue="Python.Word Ladder II" />
         <item itemvalue="Python.Binary Tree Maximum Path Sum" />
-        <item itemvalue="Python.Parsing A Boolean Expression" />
-        <item itemvalue="Python.Filling Bookcase Shelves" />
       </list>
     </recent_temporary>
   </component>
@@ -316,22 +358,23 @@
       <workItem from="1562076904349" duration="664000" />
       <workItem from="1562081563561" duration="798000" />
       <workItem from="1562082605215" duration="4016000" />
+      <workItem from="1562296264867" duration="12533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74579000" />
+    <option name="totallyTimeSpent" value="87112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20048505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20308311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48294434" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35285714" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,20 +427,22 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1560936441064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/97. Interleaving String" />
-    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
-    <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
     <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
-    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
-    <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
-    <SUITE FILE_PATH="coverage/LeetCode$Word_Ladder_II.coverage" NAME="Word Ladder II Coverage Results" MODIFIED="1562005285049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/126. Word Ladder II" />
-    <SUITE FILE_PATH="coverage/LeetCode$a.coverage" NAME="a Coverage Results" MODIFIED="1561468971643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
-    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
-    <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
-    <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1560936441064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/97. Interleaving String" />
     <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
-    <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
+    <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
+    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
+    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
+    <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
+    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
+    <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+    <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
+    <SUITE FILE_PATH="coverage/LeetCode$Word_Ladder_II.coverage" NAME="Word Ladder II Coverage Results" MODIFIED="1562005285049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/126. Word Ladder II" />
+    <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
+    <SUITE FILE_PATH="coverage/LeetCode$a.coverage" NAME="a Coverage Results" MODIFIED="1561468971643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
+    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Anagrams_in_a_String.coverage" NAME="Find All Anagrams in a String Coverage Results" MODIFIED="1562398610008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pycharm-leetcode/leetcode-plugin/en/[87]Scramble String.py" />
@@ -519,20 +564,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1099. Two Sum Less Than K/Two Sum Less Than K.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1099. Two Sum Less Than K/Two Sum Less Than K.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-243">
@@ -557,89 +590,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py">
+    <entry file="file://$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
+    <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
+    <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
+    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py" />
+    <entry file="file://$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" />
+    <entry file="file://$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" />
+    <entry file="file://$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-337">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="e#197#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="367">
+          <caret line="26" selection-start-line="26" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tools/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="4752">
           <caret line="176" column="32" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py">
+    <entry file="file://$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        <state relative-caret-position="201">
+          <caret line="12" selection-start-line="12" selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py">
+    <entry file="file://$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py">
+    <entry file="file://$PROJECT_DIR$/Easy/441. Arranging Coins/Arranging Coins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="54">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py">
+    <entry file="file://$PROJECT_DIR$/Easy/443. String Compression/String Compression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#306#444#0" />
-          </folding>
+        <state relative-caret-position="39">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
