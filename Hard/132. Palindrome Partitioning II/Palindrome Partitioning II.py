@@ -9,8 +9,6 @@
 @software: PyCharm 
 """
 
-import sys
-
 
 class Solution:
     def minCut(self, s: str) -> int:

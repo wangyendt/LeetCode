@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +32,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py">
+        <entry file="file://$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="133">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -62,12 +75,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pycharm-leetcode/leetcode-plugin/en/[87]Scramble String.py" />
-        <option value="$PROJECT_DIR$/Hard/87. Scramble String/Scramble String.py" />
         <option value="$PROJECT_DIR$/Hard/97. Interleaving String/a.py" />
         <option value="$PROJECT_DIR$/Hard/97. Interleaving String/Interleaving String.py" />
-        <option value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
-        <option value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
         <option value="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels/a.py" />
         <option value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels/Largest Values From Labels.py" />
@@ -91,8 +100,6 @@
         <option value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
         <option value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Word Ladder II.py" />
         <option value="$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py" />
-        <option value="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" />
-        <option value="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" />
         <option value="$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py" />
         <option value="$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py" />
         <option value="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py" />
@@ -113,6 +120,12 @@
         <option value="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II/Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/Hard/164. Maximum Gap/Maximum Gap.py" />
         <option value="$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py" />
+        <option value="$PROJECT_DIR$/Hard/185. Department Top Three Salaries/Department Top Three Salaries.py" />
+        <option value="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" />
+        <option value="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" />
+        <option value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
+        <option value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
+        <option value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" />
       </list>
     </option>
   </component>
@@ -143,6 +156,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Hard" type="462c0819:PsiDirectoryNode" />
+              <item name="188. Best Time to Buy and Sell Stock IV" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,8 +195,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dungeon Game">
-    <configuration name="Candy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Best Time to Buy and Sell Stock IV">
+    <configuration name="Best Time to Buy and Sell Stock III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,12 +204,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/135. Candy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/135. Candy/Candy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Best Time to Buy and Sell Stock IV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Distinct Subsequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,64 +306,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Max Points on a Line" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/149. Max Points on a Line" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/149. Max Points on a Line/Max Points on a Line.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Word Break II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/140. Word Break II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/140. Word Break II/Word Break II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Candy" />
-      <item itemvalue="Python.Word Break II" />
-      <item itemvalue="Python.Max Points on a Line" />
       <item itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
       <item itemvalue="Python.Dungeon Game" />
+      <item itemvalue="Python.Best Time to Buy and Sell Stock IV" />
+      <item itemvalue="Python.Distinct Subsequences" />
+      <item itemvalue="Python.Best Time to Buy and Sell Stock III" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Best Time to Buy and Sell Stock IV" />
+        <item itemvalue="Python.Best Time to Buy and Sell Stock III" />
+        <item itemvalue="Python.Distinct Subsequences" />
         <item itemvalue="Python.Dungeon Game" />
         <item itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
-        <item itemvalue="Python.Max Points on a Line" />
-        <item itemvalue="Python.Word Break II" />
-        <item itemvalue="Python.Candy" />
       </list>
     </recent_temporary>
   </component>
@@ -334,12 +353,12 @@
       <workItem from="1562576594841" duration="8172000" />
       <workItem from="1562652692700" duration="9466000" />
       <workItem from="1562666262067" duration="1057000" />
-      <workItem from="1562812875298" duration="2486000" />
+      <workItem from="1562812875298" duration="8479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123410000" />
+    <option name="totallyTimeSpent" value="129403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -408,11 +427,13 @@
     <SUITE FILE_PATH="coverage/LeetCode$Surrounded_Regions.coverage" NAME="Surrounded Regions Coverage Results" MODIFIED="1562412101283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/130. Surrounded Regions" />
     <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
+    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="Best Time to Buy and Sell Stock III Coverage Results" MODIFIED="1562819338388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
     <SUITE FILE_PATH="coverage/LeetCode$Candy.coverage" NAME="Candy Coverage Results" MODIFIED="1562552358988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/135. Candy" />
     <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
     <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning.coverage" NAME="Palindrome Partitioning Coverage Results" MODIFIED="1562412161005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/131. Palindrome Partitioning" />
     <SUITE FILE_PATH="coverage/LeetCode$Dungeon_Game.coverage" NAME="Dungeon Game Coverage Results" MODIFIED="1562815826207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/174. Dungeon Game" />
+    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_IV.coverage" NAME="Best Time to Buy and Sell Stock IV Coverage Results" MODIFIED="1562828429032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
     <SUITE FILE_PATH="coverage/LeetCode$Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="Find Minimum in Rotated Sorted Array II Coverage Results" MODIFIED="1562665797616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II" />
@@ -422,6 +443,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Delete_Nodes_And_Return_Forest.coverage" NAME="Delete Nodes And Return Forest Coverage Results" MODIFIED="1562470704262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1110. Delete Nodes And Return Forest" />
     <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
+    <SUITE FILE_PATH="coverage/LeetCode$Distinct_Subsequences.coverage" NAME="Distinct Subsequences Coverage Results" MODIFIED="1562819308903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
     <SUITE FILE_PATH="coverage/LeetCode$Word_Break_II.coverage" NAME="Word Break II Coverage Results" MODIFIED="1562643579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/140. Word Break II" />
     <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Corporate_Flight_Bookings.coverage" NAME="Corporate Flight Bookings Coverage Results" MODIFIED="1562472300512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1109. Corporate Flight Bookings" />
@@ -430,50 +452,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$Find_All_Anagrams_in_a_String.coverage" NAME="Find All Anagrams in a String Coverage Results" MODIFIED="1562398610008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1090. Largest Values From Labels/a.py" />
-    <entry file="file://$PROJECT_DIR$/Contests/1090. Largest Values From Labels/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1090. Largest Values From Labels/Largest Values From Labels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../algorithm_library/ndtpy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -527,13 +505,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1099. Two Sum Less Than K/Two Sum Less Than K.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py" />
-    <entry file="file://$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-837">
@@ -554,14 +525,9 @@
     <entry file="file://$PROJECT_DIR$/Contests/1101. The Earliest Moment When Everyone Become Friends/The Earliest Moment When Everyone Become Friends.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
-    <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
     <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/readme.txt" />
-    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" />
     <entry file="file://$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
@@ -646,27 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1109. Corporate Flight Bookings/Corporate Flight Bookings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/135. Candy/Candy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/140. Word Break II/Word Break II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="5" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hard/145. Binary Tree Postorder Traversal/Binary Tree Postorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
@@ -695,10 +640,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/185. Department Top Three Salaries/Department Top Three Salaries.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="27">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contests/1109. Corporate Flight Bookings/Corporate Flight Bookings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/97. Interleaving String/Interleaving String.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/87. Scramble String/Scramble String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/Word Ladder II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/135. Candy/Candy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/140. Word Break II/Word Break II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="5" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
