@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/447. Number of Boomerangs/Number of Boomerangs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array/Find All Numbers Disappeared in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements/Minimum Moves to Equal Array Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/212. Word Search II/Word Search II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/214. Shortest Palindrome/Shortest Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/128. Longest Consecutive Sequence/Longest Consecutive Sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II/Palindrome Partitioning II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,26 +32,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,14 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hard/97. Interleaving String/a.py" />
-        <option value="$PROJECT_DIR$/Hard/97. Interleaving String/Interleaving String.py" />
-        <option value="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree/Recover Binary Search Tree.py" />
-        <option value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels/a.py" />
-        <option value="$PROJECT_DIR$/Contests/1090. Largest Values From Labels/Largest Values From Labels.py" />
-        <option value="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix/readme.txt" />
-        <option value="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/a.py" />
-        <option value="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py" />
         <option value="$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py" />
         <option value="$PROJECT_DIR$/Contests/1094. Car Pooling/Car Pooling.py" />
         <option value="$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py" />
@@ -126,12 +101,19 @@
         <option value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
         <option value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
         <option value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" />
+        <option value="$PROJECT_DIR$/Hard/212. Word Search II/Word Search II.py" />
+        <option value="$PROJECT_DIR$/Hard/214. Shortest Palindrome/Shortest Palindrome.py" />
+        <option value="$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem.py" />
+        <option value="$PROJECT_DIR$/Medium/The Skyline Problem 2.py" />
+        <option value="$PROJECT_DIR$/Easy/443. String Compression/Number of Boomerangs.py" />
+        <option value="$PROJECT_DIR$/Easy/447. Number of Boomerangs/Number of Boomerangs.py" />
+        <option value="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array/Find All Numbers Disappeared in an Array.py" />
+        <option value="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements/Minimum Moves to Equal Array Elements.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="25" />
-    <option name="y" value="20" />
+    <option name="x" value="463" />
     <option name="width" value="1245" />
     <option name="height" value="780" />
   </component>
@@ -155,13 +137,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Hard" type="462c0819:PsiDirectoryNode" />
-              <item name="188. Best Time to Buy and Sell Stock IV" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,6 +155,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Github\python\LeetCode\Easy\447. Number of Boomerangs" />
+      <recent name="D:\Code\Github\python\LeetCode\Hard\218. The Skyline Problem" />
       <recent name="D:\Code\Github\python\LeetCode\Hard\145. Binary Tree Postorder Traversal" />
       <recent name="E:\programmes\python\LeetCode\Hard\126. Word Ladder II" />
     </key>
@@ -195,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Best Time to Buy and Sell Stock IV">
-    <configuration name="Best Time to Buy and Sell Stock III" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Minimum Moves to Equal Array Elements">
+    <configuration name="Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,12 +182,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III/Best Time to Buy and Sell Stock III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array/Find All Numbers Disappeared in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Best Time to Buy and Sell Stock IV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Minimum Moves to Equal Array Elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements/Minimum Moves to Equal Array Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Distinct Subsequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Number of Boomerangs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/447. Number of Boomerangs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/115. Distinct Subsequences/Distinct Subsequences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/447. Number of Boomerangs/Number of Boomerangs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dungeon Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Shortest Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/174. Dungeon Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/214. Shortest Palindrome" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/214. Shortest Palindrome/Shortest Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find Minimum in Rotated Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="The Skyline Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard/218. The Skyline Problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II/Find Minimum in Rotated Sorted Array II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
-      <item itemvalue="Python.Dungeon Game" />
-      <item itemvalue="Python.Best Time to Buy and Sell Stock IV" />
-      <item itemvalue="Python.Distinct Subsequences" />
-      <item itemvalue="Python.Best Time to Buy and Sell Stock III" />
+      <item itemvalue="Python.Shortest Palindrome" />
+      <item itemvalue="Python.The Skyline Problem" />
+      <item itemvalue="Python.Number of Boomerangs" />
+      <item itemvalue="Python.Find All Numbers Disappeared in an Array" />
+      <item itemvalue="Python.Minimum Moves to Equal Array Elements" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Best Time to Buy and Sell Stock IV" />
-        <item itemvalue="Python.Best Time to Buy and Sell Stock III" />
-        <item itemvalue="Python.Distinct Subsequences" />
-        <item itemvalue="Python.Dungeon Game" />
-        <item itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+        <item itemvalue="Python.Minimum Moves to Equal Array Elements" />
+        <item itemvalue="Python.Find All Numbers Disappeared in an Array" />
+        <item itemvalue="Python.Number of Boomerangs" />
+        <item itemvalue="Python.The Skyline Problem" />
+        <item itemvalue="Python.Shortest Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -353,23 +331,22 @@
       <workItem from="1562576594841" duration="8172000" />
       <workItem from="1562652692700" duration="9466000" />
       <workItem from="1562666262067" duration="1057000" />
-      <workItem from="1562812875298" duration="8479000" />
+      <workItem from="1562812875298" duration="31869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129403000" />
+    <option name="totallyTimeSpent" value="152793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.37285715" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.37285715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,32 +368,6 @@
       <window_info anchor="right" x="0" y="0" width="337" height="678" id="Documentation" order="6" sideWeight="0.5032258" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="leetcode" order="7" sideWeight="0.5032258" side_tool="true" weight="0.3297587" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15951742" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Statistic" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.3297587" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Key Promoter X" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -434,15 +385,20 @@
     <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning.coverage" NAME="Palindrome Partitioning Coverage Results" MODIFIED="1562412161005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/131. Palindrome Partitioning" />
     <SUITE FILE_PATH="coverage/LeetCode$Dungeon_Game.coverage" NAME="Dungeon Game Coverage Results" MODIFIED="1562815826207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/174. Dungeon Game" />
     <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_IV.coverage" NAME="Best Time to Buy and Sell Stock IV Coverage Results" MODIFIED="1562828429032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
+    <SUITE FILE_PATH="coverage/LeetCode$Minimum_Moves_to_Equal_Array_Elements.coverage" NAME="Minimum Moves to Equal Array Elements Coverage Results" MODIFIED="1562903893180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
     <SUITE FILE_PATH="coverage/LeetCode$Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="Find Minimum in Rotated Sorted Array II Coverage Results" MODIFIED="1562665797616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II" />
     <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
     <SUITE FILE_PATH="coverage/LeetCode$Max_Points_on_a_Line.coverage" NAME="Max Points on a Line Coverage Results" MODIFIED="1562665482178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/149. Max Points on a Line" />
+    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1562903242431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array" />
     <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Palindrome.coverage" NAME="Shortest Palindrome Coverage Results" MODIFIED="1562838977126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/214. Shortest Palindrome" />
     <SUITE FILE_PATH="coverage/LeetCode$Delete_Nodes_And_Return_Forest.coverage" NAME="Delete Nodes And Return Forest Coverage Results" MODIFIED="1562470704262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1110. Delete Nodes And Return Forest" />
     <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
     <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
+    <SUITE FILE_PATH="coverage/LeetCode$The_Skyline_Problem.coverage" NAME="The Skyline Problem Coverage Results" MODIFIED="1562900037986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/218. The Skyline Problem" />
+    <SUITE FILE_PATH="coverage/LeetCode$Number_of_Boomerangs.coverage" NAME="Number of Boomerangs Coverage Results" MODIFIED="1562902794190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/447. Number of Boomerangs" />
     <SUITE FILE_PATH="coverage/LeetCode$Distinct_Subsequences.coverage" NAME="Distinct Subsequences Coverage Results" MODIFIED="1562819308903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
     <SUITE FILE_PATH="coverage/LeetCode$Word_Break_II.coverage" NAME="Word Break II Coverage Results" MODIFIED="1562643579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/140. Word Break II" />
     <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
@@ -452,57 +408,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$Find_All_Anagrams_in_a_String.coverage" NAME="Find All Anagrams in a String Coverage Results" MODIFIED="1562398610008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../algorithm_library/ndtpy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../algorithm_library/ndtpy/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="355" column="26" selection-start-line="355" selection-start-column="4" selection-end-line="355" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/a.py" />
-    <entry file="file://$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1093. Statistics from a Large Sample/Statistics from a Large Sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#526#675#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1095. Find in Mountain Array/Find in Mountain Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contests/1096. Brace Expansion II/Brace Expansion II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contests/1099. Two Sum Less Than K/Two Sum Less Than K.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1100. Find K-Length Substrings With No Repeated Characters/Find K-Length Substrings With No Repeated Characters.py" />
     <entry file="file://$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence/Shortest Common Supersequence.py">
@@ -734,6 +639,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
@@ -741,10 +653,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV/Best Time to Buy and Sell Stock IV.py">
+    <entry file="file://$PROJECT_DIR$/Hard/214. Shortest Palindrome/Shortest Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="-569">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/212. Word Search II/Word Search II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1082">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/218. The Skyline Problem/The Skyline Problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <element signature="e#117#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/447. Number of Boomerangs/Number of Boomerangs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="5" selection-start-line="5" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#115#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array/Find All Numbers Disappeared in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements/Minimum Moves to Equal Array Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
