@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3866f34-3463-49ec-a770-3d9ff5030dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/455. Assign Cookies/Assign Cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/459. Repeated Substring Pattern/Repeated Substring Pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/461. Hamming Distance/Hamming Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/463. Island Perimeter/Island Perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/475. Heaters/Heaters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/476. Number Complement/Number Complement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/482. License Key Formatting/License Key Formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/485. Max Consecutive Ones/Max Consecutive Ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biweekly Contests/1118. Number of Days in a Month/Number of Days in a Month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biweekly Contests/1119. Remove Vowels from a String/Remove Vowels from a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree/Maximum Average Subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences/Divide Array Into Increasing Sequences.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +30,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/485. Max Consecutive Ones/Max Consecutive Ones.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Biweekly Contests/1118. Number of Days in a Month/Number of Days in a Month.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Biweekly Contests/1119. Remove Vowels from a String/Remove Vowels from a String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree/Maximum Average Subtree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="23" selection-start-line="23" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences/Divide Array Into Increasing Sequences.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -69,10 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Contests/1102. Path With Maximum Minimum Value/Path With Maximum Minimum Value.py" />
-        <option value="$PROJECT_DIR$/Contests/1103. Distribute Candies to People/Distribute Candies to People.py" />
-        <option value="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree/Path In Zigzag Labelled Binary Tree.py" />
-        <option value="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
         <option value="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression/Parsing A Boolean Expression.py" />
         <option value="$PROJECT_DIR$/Tools/BinaryTree.py" />
         <option value="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum/Binary Tree Maximum Path Sum.py" />
@@ -120,10 +148,14 @@
         <option value="$PROJECT_DIR$/Easy/476. Number Complement/Number Complement.py" />
         <option value="$PROJECT_DIR$/Easy/482. License Key Formatting/License Key Formatting.py" />
         <option value="$PROJECT_DIR$/Easy/485. Max Consecutive Ones/Max Consecutive Ones.py" />
+        <option value="$PROJECT_DIR$/Biweekly Contests/1118. Number of Days in a Month/Number of Days in a Month.py" />
+        <option value="$PROJECT_DIR$/Biweekly Contests/1119. Remove Vowels from a String/Remove Vowels from a String.py" />
+        <option value="$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree/Maximum Average Subtree.py" />
+        <option value="$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences/Divide Array Into Increasing Sequences.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="462" />
     <option name="width" value="1245" />
     <option name="height" value="780" />
@@ -137,7 +169,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,12 +179,24 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="Biweekly Contests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Biweekly Contests" type="462c0819:PsiDirectoryNode" />
+              <item name="1121. Divide Array Into Increasing Sequences" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Contests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,8 +227,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Max Consecutive Ones">
-    <configuration name="Heaters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Divide Array Into Increasing Sequences">
+    <configuration name="Divide Array Into Increasing Sequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,34 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/475. Heaters" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/475. Heaters/Heaters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Island Perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/463. Island Perimeter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/463. Island Perimeter/Island Perimeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences/Divide Array Into Increasing Sequences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,6 +294,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Maximum Average Subtree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree/Maximum Average Subtree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Number Complement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,19 +339,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Island Perimeter" />
-      <item itemvalue="Python.Heaters" />
       <item itemvalue="Python.Number Complement" />
       <item itemvalue="Python.License Key Formatting" />
       <item itemvalue="Python.Max Consecutive Ones" />
+      <item itemvalue="Python.Maximum Average Subtree" />
+      <item itemvalue="Python.Divide Array Into Increasing Sequences" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Divide Array Into Increasing Sequences" />
+        <item itemvalue="Python.Maximum Average Subtree" />
         <item itemvalue="Python.Max Consecutive Ones" />
         <item itemvalue="Python.License Key Formatting" />
         <item itemvalue="Python.Number Complement" />
-        <item itemvalue="Python.Heaters" />
-        <item itemvalue="Python.Island Perimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -343,22 +386,23 @@
       <workItem from="1562652692700" duration="9466000" />
       <workItem from="1562666262067" duration="1057000" />
       <workItem from="1562812875298" duration="46705000" />
+      <workItem from="1563028260087" duration="1806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167629000" />
+    <option name="totallyTimeSpent" value="169435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22312045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.37285715" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.37163374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,64 +430,50 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1560936441064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/97. Interleaving String" />
-    <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
-    <SUITE FILE_PATH="coverage/LeetCode$Surrounded_Regions.coverage" NAME="Surrounded Regions Coverage Results" MODIFIED="1562412101283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/130. Surrounded Regions" />
-    <SUITE FILE_PATH="coverage/LeetCode$Hamming_Distance.coverage" NAME="Hamming Distance Coverage Results" MODIFIED="1562919445312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/461. Hamming Distance" />
-    <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
-    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
-    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="Best Time to Buy and Sell Stock III Coverage Results" MODIFIED="1562819338388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III" />
+    <SUITE FILE_PATH="coverage/LeetCode$Corporate_Flight_Bookings.coverage" NAME="Corporate Flight Bookings Coverage Results" MODIFIED="1562472300512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1109. Corporate Flight Bookings" />
+    <SUITE FILE_PATH="coverage/LeetCode$Heaters.coverage" NAME="Heaters Coverage Results" MODIFIED="1562922836498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/475. Heaters" />
+    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1562903242431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array" />
+    <SUITE FILE_PATH="coverage/LeetCode$Divide_Array_Into_Increasing_Sequences.coverage" NAME="Divide Array Into Increasing Sequences Coverage Results" MODIFIED="1563029887706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences" />
     <SUITE FILE_PATH="coverage/LeetCode$Shortest_Path_in_Binary_Matrix.coverage" NAME="Shortest Path in Binary Matrix Coverage Results" MODIFIED="1561429813406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1091. Shortest Path in Binary Matrix" />
-    <SUITE FILE_PATH="coverage/LeetCode$Assign_Cookies.coverage" NAME="Assign Cookies Coverage Results" MODIFIED="1562912336356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/455. Assign Cookies" />
-    <SUITE FILE_PATH="coverage/LeetCode$Candy.coverage" NAME="Candy Coverage Results" MODIFIED="1562552358988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/135. Candy" />
-    <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+    <SUITE FILE_PATH="coverage/LeetCode$Number_Complement.coverage" NAME="Number Complement Coverage Results" MODIFIED="1562925711239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/476. Number Complement" />
     <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning.coverage" NAME="Palindrome Partitioning Coverage Results" MODIFIED="1562412161005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/131. Palindrome Partitioning" />
     <SUITE FILE_PATH="coverage/LeetCode$License_Key_Formatting.coverage" NAME="License Key Formatting Coverage Results" MODIFIED="1562926694043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/482. License Key Formatting" />
-    <SUITE FILE_PATH="coverage/LeetCode$Dungeon_Game.coverage" NAME="Dungeon Game Coverage Results" MODIFIED="1562815826207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/174. Dungeon Game" />
-    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_IV.coverage" NAME="Best Time to Buy and Sell Stock IV Coverage Results" MODIFIED="1562828429032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
-    <SUITE FILE_PATH="coverage/LeetCode$Minimum_Moves_to_Equal_Array_Elements.coverage" NAME="Minimum Moves to Equal Array Elements Coverage Results" MODIFIED="1562903893180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements" />
-    <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
     <SUITE FILE_PATH="coverage/LeetCode$Filling_Bookcase_Shelves.coverage" NAME="Filling Bookcase Shelves Coverage Results" MODIFIED="1561882545087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves" />
-    <SUITE FILE_PATH="coverage/LeetCode$Island_Perimeter.coverage" NAME="Island Perimeter Coverage Results" MODIFIED="1562919598499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/463. Island Perimeter" />
-    <SUITE FILE_PATH="coverage/LeetCode$Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="Find Minimum in Rotated Sorted Array II Coverage Results" MODIFIED="1562665797616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II" />
-    <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
-    <SUITE FILE_PATH="coverage/LeetCode$Max_Points_on_a_Line.coverage" NAME="Max Points on a Line Coverage Results" MODIFIED="1562665482178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/149. Max Points on a Line" />
-    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1562903242431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/448. Find All Numbers Disappeared in an Array" />
-    <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
-    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Palindrome.coverage" NAME="Shortest Palindrome Coverage Results" MODIFIED="1562838977126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/214. Shortest Palindrome" />
-    <SUITE FILE_PATH="coverage/LeetCode$Delete_Nodes_And_Return_Forest.coverage" NAME="Delete Nodes And Return Forest Coverage Results" MODIFIED="1562470704262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1110. Delete Nodes And Return Forest" />
-    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
-    <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
-    <SUITE FILE_PATH="coverage/LeetCode$The_Skyline_Problem.coverage" NAME="The Skyline Problem Coverage Results" MODIFIED="1562900037986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/218. The Skyline Problem" />
+    <SUITE FILE_PATH="coverage/LeetCode$Hamming_Distance.coverage" NAME="Hamming Distance Coverage Results" MODIFIED="1562919445312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/461. Hamming Distance" />
+    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_IV.coverage" NAME="Best Time to Buy and Sell Stock IV Coverage Results" MODIFIED="1562828429032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/188. Best Time to Buy and Sell Stock IV" />
     <SUITE FILE_PATH="coverage/LeetCode$Number_of_Boomerangs.coverage" NAME="Number of Boomerangs Coverage Results" MODIFIED="1562902794190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/447. Number of Boomerangs" />
-    <SUITE FILE_PATH="coverage/LeetCode$Distinct_Subsequences.coverage" NAME="Distinct Subsequences Coverage Results" MODIFIED="1562819308903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
-    <SUITE FILE_PATH="coverage/LeetCode$Heaters.coverage" NAME="Heaters Coverage Results" MODIFIED="1562922836498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/475. Heaters" />
-    <SUITE FILE_PATH="coverage/LeetCode$Word_Break_II.coverage" NAME="Word Break II Coverage Results" MODIFIED="1562643579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/140. Word Break II" />
-    <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
-    <SUITE FILE_PATH="coverage/LeetCode$Max_Consecutive_Ones.coverage" NAME="Max Consecutive Ones Coverage Results" MODIFIED="1562926912997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/485. Max Consecutive Ones" />
-    <SUITE FILE_PATH="coverage/LeetCode$Corporate_Flight_Bookings.coverage" NAME="Corporate Flight Bookings Coverage Results" MODIFIED="1562472300512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1109. Corporate Flight Bookings" />
+    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Common_Supersequence.coverage" NAME="Shortest Common Supersequence Coverage Results" MODIFIED="1561477610034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
+    <SUITE FILE_PATH="coverage/LeetCode$Minimum_Moves_to_Equal_Array_Elements.coverage" NAME="Minimum Moves to Equal Array Elements Coverage Results" MODIFIED="1562903893180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/453. Minimum Moves to Equal Array Elements" />
+    <SUITE FILE_PATH="coverage/LeetCode$Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="Best Time to Buy and Sell Stock III Coverage Results" MODIFIED="1562819338388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/123. Best Time to Buy and Sell Stock III" />
     <SUITE FILE_PATH="coverage/LeetCode$Word_Ladder_II.coverage" NAME="Word Ladder II Coverage Results" MODIFIED="1562005285049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/126. Word Ladder II" />
-    <SUITE FILE_PATH="coverage/LeetCode$Number_Complement.coverage" NAME="Number Complement Coverage Results" MODIFIED="1562925711239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/476. Number Complement" />
+    <SUITE FILE_PATH="coverage/LeetCode$Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="Find Minimum in Rotated Sorted Array II Coverage Results" MODIFIED="1562665797616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/154. Find Minimum in Rotated Sorted Array II" />
+    <SUITE FILE_PATH="coverage/LeetCode$Delete_Nodes_And_Return_Forest.coverage" NAME="Delete Nodes And Return Forest Coverage Results" MODIFIED="1562470704262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1110. Delete Nodes And Return Forest" />
+    <SUITE FILE_PATH="coverage/LeetCode$Island_Perimeter.coverage" NAME="Island Perimeter Coverage Results" MODIFIED="1562919598499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/463. Island Perimeter" />
     <SUITE FILE_PATH="coverage/LeetCode$a.coverage" NAME="a Coverage Results" MODIFIED="1561468971643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1092. Shortest Common Supersequence" />
-    <SUITE FILE_PATH="coverage/LeetCode$Repeated_Substring_Pattern.coverage" NAME="Repeated Substring Pattern Coverage Results" MODIFIED="1562918437032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/459. Repeated Substring Pattern" />
+    <SUITE FILE_PATH="coverage/LeetCode$Max_Consecutive_Ones.coverage" NAME="Max Consecutive Ones Coverage Results" MODIFIED="1562926912997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/485. Max Consecutive Ones" />
     <SUITE FILE_PATH="coverage/LeetCode$Find_All_Anagrams_in_a_String.coverage" NAME="Find All Anagrams in a String Coverage Results" MODIFIED="1562398610008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/438. Find All Anagrams in a String" />
+    <SUITE FILE_PATH="coverage/LeetCode$Path_In_Zigzag_Labelled_Binary_Tree.coverage" NAME="Path In Zigzag Labelled Binary Tree Coverage Results" MODIFIED="1561882443719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1104. Path In Zigzag Labelled Binary Tree" />
+    <SUITE FILE_PATH="coverage/LeetCode$Path_Sum_III.coverage" NAME="Path Sum III Coverage Results" MODIFIED="1562397974637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/437. Path Sum III" />
+    <SUITE FILE_PATH="coverage/LeetCode$Maximum_Average_Subtree.coverage" NAME="Maximum Average Subtree Coverage Results" MODIFIED="1563029239061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree" />
+    <SUITE FILE_PATH="coverage/LeetCode$Shortest_Palindrome.coverage" NAME="Shortest Palindrome Coverage Results" MODIFIED="1562838977126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/214. Shortest Palindrome" />
+    <SUITE FILE_PATH="coverage/LeetCode$Candy.coverage" NAME="Candy Coverage Results" MODIFIED="1562552358988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/135. Candy" />
+    <SUITE FILE_PATH="coverage/LeetCode$Distribute_Candies_to_People.coverage" NAME="Distribute Candies to People Coverage Results" MODIFIED="1561878331600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1103. Distribute Candies to People" />
+    <SUITE FILE_PATH="coverage/LeetCode$Dungeon_Game.coverage" NAME="Dungeon Game Coverage Results" MODIFIED="1562815826207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/174. Dungeon Game" />
+    <SUITE FILE_PATH="coverage/LeetCode$Surrounded_Regions.coverage" NAME="Surrounded Regions Coverage Results" MODIFIED="1562412101283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/130. Surrounded Regions" />
+    <SUITE FILE_PATH="coverage/LeetCode$Parsing_A_Boolean_Expression.coverage" NAME="Parsing A Boolean Expression Coverage Results" MODIFIED="1561883670119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1106. Parsing A Boolean Expression" />
+    <SUITE FILE_PATH="coverage/LeetCode$Max_Points_on_a_Line.coverage" NAME="Max Points on a Line Coverage Results" MODIFIED="1562665482178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/149. Max Points on a Line" />
+    <SUITE FILE_PATH="coverage/LeetCode$Assign_Cookies.coverage" NAME="Assign Cookies Coverage Results" MODIFIED="1562912336356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/455. Assign Cookies" />
+    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Partitioning_II.coverage" NAME="Palindrome Partitioning II Coverage Results" MODIFIED="1562086818229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/132. Palindrome Partitioning II" />
+    <SUITE FILE_PATH="coverage/LeetCode$The_Skyline_Problem.coverage" NAME="The Skyline Problem Coverage Results" MODIFIED="1562900037986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/218. The Skyline Problem" />
+    <SUITE FILE_PATH="coverage/LeetCode$Repeated_Substring_Pattern.coverage" NAME="Repeated Substring Pattern Coverage Results" MODIFIED="1562918437032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/459. Repeated Substring Pattern" />
+    <SUITE FILE_PATH="coverage/LeetCode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1560997343925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/99. Recover Binary Search Tree" />
+    <SUITE FILE_PATH="coverage/LeetCode$Binary_Tree_Maximum_Path_Sum.coverage" NAME="Binary Tree Maximum Path Sum Coverage Results" MODIFIED="1562002628180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/124. Binary Tree Maximum Path Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$Largest_Values_From_Labels.coverage" NAME="Largest Values From Labels Coverage Results" MODIFIED="1561341583448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/1090. Largest Values From Labels" />
+    <SUITE FILE_PATH="coverage/LeetCode$Word_Break_II.coverage" NAME="Word Break II Coverage Results" MODIFIED="1562643579310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/140. Word Break II" />
+    <SUITE FILE_PATH="coverage/LeetCode$Distinct_Subsequences.coverage" NAME="Distinct Subsequences Coverage Results" MODIFIED="1562819308903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/115. Distinct Subsequences" />
+    <SUITE FILE_PATH="coverage/LeetCode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1560921906964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hard/87. Scramble String" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Contests/1105. Filling Bookcase Shelves/Filling Bookcase Shelves.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/126. Word Ladder II/readme.txt" />
-    <entry file="file://$PROJECT_DIR$/Easy/429. N-ary Tree Level Order Traversal/N-ary Tree Level Order Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="26" selection-start-line="26" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/437. Path Sum III/Path Sum III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/438. Find All Anagrams in a String/Find All Anagrams in a String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -542,9 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/185. Department Top Three Salaries/Department Top Three Salaries.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/185. Department Top Three Salaries/Department Top Three Salaries.py" />
     <entry file="file://$PROJECT_DIR$/Hard/174. Dungeon Game/Dungeon Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -643,13 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/Hard/214. Shortest Palindrome/Shortest Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-569">
@@ -761,6 +783,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biweekly Contests/1118. Number of Days in a Month/Number of Days in a Month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biweekly Contests/1119. Remove Vowels from a String/Remove Vowels from a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biweekly Contests/1120. Maximum Average Subtree/Maximum Average Subtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="23" selection-start-line="23" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biweekly Contests/1121. Divide Array Into Increasing Sequences/Divide Array Into Increasing Sequences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
         </state>
       </provider>
     </entry>
