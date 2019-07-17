@@ -6,4 +6,13 @@
 
 
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
+    def singleNumber(self, nums: list) -> int:
+        a, b = 0, 0
+        for n in nums:
+            a, b, c = a ^ n, b | (a & n), b & n
+            a, b = a & ~c, b & ~c
+        return a
+
+
+so = Solution()
+print(so.singleNumber([2, 2, 3, 2]))
