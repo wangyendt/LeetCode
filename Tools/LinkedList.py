@@ -48,10 +48,10 @@ class LinkedList:
     def insert(self, this_node, index):
         if index > self.length:
             return 'Error'
-        if isinstance(this_node, Node):
+        if isinstance(this_node, ListNode):
             pass
         else:
-            this_node = Node(this_node)
+            this_node = ListNode(this_node)
         if index == 0:
             this_node.next = self.head
             self.head = this_node
