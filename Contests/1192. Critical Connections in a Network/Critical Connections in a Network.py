@@ -9,17 +9,12 @@
 @time: 2019/9/18 14:11
 """
 
-from collections import defaultdict
+import collections
 
 
-class Solution(object):
-    def criticalConnections(self, n, connections):
-        """
-        :type n: int
-        :type connections: List[List[int]]
-        :rtype: List[List[int]]
-        """
-        graph = defaultdict(list)
+class Solution:
+    def criticalConnections(self, n: int, connections: list(list())) -> list(list()):
+        graph = collections.defaultdict(list)
         for v in connections:
             graph[v[0]].append(v[1])
             graph[v[1]].append(v[0])
@@ -27,8 +22,6 @@ class Solution(object):
         dfn = [None for i in range(n)]
         low = [None for i in range(n)]
 
-        cur = 0
-        start = 0
         res = []
         self.cur = 0
 
