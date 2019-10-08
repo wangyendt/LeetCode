@@ -12,9 +12,14 @@
 
 class Solution:
     def minCostToMoveChips(self, chips: list) -> int:
-        cost1 = sum([c for i, c in enumerate(chips) if i % 2 == 0])
-        cost2 = sum([c for i, c in enumerate(chips) if i % 2 == 1])
-        return min(cost1, cost2)
+        even_parity = 0
+        odd_parity = 0
+        for chip in chips:
+            if chip % 2 == 0:
+                even_parity += 1
+            else:
+                odd_parity += 1
+        return min(even_parity, odd_parity)
 
 
 so = Solution()
