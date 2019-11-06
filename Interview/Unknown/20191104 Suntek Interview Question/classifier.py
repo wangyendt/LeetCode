@@ -37,6 +37,7 @@ if __name__ == '__main__':
     if os.path.exists('runs'):
         del_file('runs')
     data = pd.read_csv('case2_training.csv')
+    data_save = pd.read_csv('case2_testing.csv')
     data_final_test = pd.read_csv('case2_testing.csv')
     print(data.head(2))
     data = np.array(data)[:, 1:]
@@ -113,6 +114,8 @@ if __name__ == '__main__':
             for name, param in dnn.named_parameters():
                 writer.add_histogram(name, param.clone().data.cpu().numpy(), ep)
     y_final_test = dnn(data_final_test).detach().numpy().argmax(1)
+    data_save['Accept'] = y_final_test
+    data_save.to_csv('result.csv')
     y_true = y_test.numpy().argmax(1)
     y_score = dnn(X_test).detach().numpy()[:, 1].squeeze()
     print(y_score)
