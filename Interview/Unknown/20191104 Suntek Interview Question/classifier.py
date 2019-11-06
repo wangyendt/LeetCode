@@ -37,13 +37,18 @@ if __name__ == '__main__':
     if os.path.exists('runs'):
         del_file('runs')
     data = pd.read_csv('case2_training.csv')
+    data_final_test = pd.read_csv('case2_testing.csv')
     print(data.head(2))
     data = np.array(data)[:, 1:]
+    data_final_test = np.array(data_final_test)[:, 1:]
     factor = np.array([10, 365, 7, 1, 4, 5, 1, 1000])
     x = data[:, :-1]
     y = data[:, -1]
     x = np.apply_along_axis(
         lambda t: t / factor, 1, x
+    )
+    data_final_test = np.apply_along_axis(
+        lambda t: t / factor, 1, data_final_test
     )
     # z = list(zip(x, y))
     # np.random.shuffle(z)
@@ -59,6 +64,7 @@ if __name__ == '__main__':
     X_test = Variable(torch.FloatTensor(x_test))
     y_train = Variable(torch.FloatTensor(y_train))
     y_test = Variable(torch.FloatTensor(y_test))
+    data_final_test = Variable(torch.FloatTensor(data_final_test))
     dnn = nn.Sequential(
         nn.Linear(8, 20),
         nn.BatchNorm1d(20),
@@ -106,7 +112,7 @@ if __name__ == '__main__':
             writer.add_scalars('data/accuracy', {'train accuracy': train_acc, 'test accuracy': test_acc}, ep)
             for name, param in dnn.named_parameters():
                 writer.add_histogram(name, param.clone().data.cpu().numpy(), ep)
-
+    y_final_test = dnn(data_final_test).detach().numpy().argmax(1)
     y_true = y_test.numpy().argmax(1)
     y_score = dnn(X_test).detach().numpy()[:, 1].squeeze()
     print(y_score)
