@@ -12,18 +12,14 @@
 
 class Solution:
     def maxSumDivThree(self, nums: list) -> int:
-        mod0 = [n for n in nums if n % 3 == 0 and n > 0]
-        mod1p = [n for n in nums if n % 3 == 1 and n > 0]
-        mod1n = sorted([n for n in nums if n % 3 == 1 and n < 0])[-2:]
-        mod2p = [n for n in nums if n % 3 == 2 and n > 0]
-        mod2n = sorted([n for n in nums if n % 3 == 2 and n < 0])[-2:]
-        ret = sum(mod0)
-        ret += mod1p + mod2p
-        if ret % 3 == 0:
-            pass
-        elif ret % 3 == 1:
-            tmp = sum(mod2n)
-            if tmp % 3 == 1:
-                ret -=
+        res = [0, 0, 0]
+        for n in nums:
+            for r in res[:]:
+                res[(r + n) % 3] = max(res[(r + n) % 3], r + n)
+        return res[0]
 
 
+so = Solution()
+print(so.maxSumDivThree([3, 6, 5, 1, 8]))
+print(so.maxSumDivThree([4]))
+print(so.maxSumDivThree([1, 2, 3, 4, 4]))
