@@ -51,7 +51,7 @@ class UnionFind:
 
         id = self._id
         while p != id[p]:
-            p = id[p] = id[id[p]]  # Path compression using halving.
+            id[p] = p = id[id[p]]  # Path compression using halving.
         return p
 
     def count(self):
