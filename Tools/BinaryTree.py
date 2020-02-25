@@ -25,7 +25,7 @@ def maxDepth(root: TreeNode) -> int:
     return recursive(root, 0)
 
 
-def parseTreeNode(l):
+def parseTreeNode(l: list) -> TreeNode:
     if not l:
         return None
     tree = TreeNode(l[0])
@@ -53,7 +53,7 @@ def parseTreeNode(l):
     return tree
 
 
-def showTreeNode(tree: TreeNode):
+def showTreeNode(tree: TreeNode) -> str:
     stack = [tree]
     ret = []
     while stack and len(ret) < 2 ** maxDepth(tree) - 1:
