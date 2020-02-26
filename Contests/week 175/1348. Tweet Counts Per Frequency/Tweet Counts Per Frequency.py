@@ -9,6 +9,7 @@
 =================================================="""
 
 import collections
+import bisect
 
 
 class TweetCounts:
