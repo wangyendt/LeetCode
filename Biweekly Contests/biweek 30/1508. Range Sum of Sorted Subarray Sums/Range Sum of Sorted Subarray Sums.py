@@ -9,8 +9,6 @@
 @time: 2020/07/11 22:34
 """
 
-import itertools
-
 
 class Solution:
     def rangeSum(self, nums: list, n: int, left: int, right: int) -> int:
