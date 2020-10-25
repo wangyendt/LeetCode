@@ -10,6 +10,7 @@
 """
 
 from typing import *
+import collections
 
 
 class UF:
@@ -71,7 +72,7 @@ class Solution:
             for j in range(n):
                 node_lookup[i, j] = uf.find(node_lookup[i, j])
 
-        graph = defaultdict(list)
+        graph = collections.defaultdict(list)
 
         def add_edge(p, d):
             graph[p].append(d)
@@ -122,7 +123,7 @@ class Solution:
 
         r = r[::-1]
 
-        graph_r = defaultdict(list)
+        graph_r = collections.defaultdict(list)
         for v in graph:
             for nv in graph[v]:
                 graph_r[nv].append(v)
