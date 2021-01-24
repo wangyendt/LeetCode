@@ -30,8 +30,8 @@ class Solution:
             b = min(b, a - b)
             for i in range(b):
                 r *= a - i
-                r //= i + 1
-            return r % mod
+                r /= i + 1
+            return int(r) % mod
 
         for n, k in queries:
             res = 1
