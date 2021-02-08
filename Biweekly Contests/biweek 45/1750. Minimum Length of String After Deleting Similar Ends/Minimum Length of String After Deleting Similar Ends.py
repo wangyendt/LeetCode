@@ -23,12 +23,12 @@ class Solution:
                 ptr_l += 1
             if ptr_l == ls:
                 return 0
-            r = ls - 1
-            while r >= ptr_l:
-                if s[-1] != s[r]:
+            ptr_r = ls - 1
+            while ptr_r >= ptr_l:
+                if s[-1] != s[ptr_r]:
                     break
-                r -= 1
-            s = s[ptr_l:r + 1]
+                ptr_r -= 1
+            s = s[ptr_l:ptr_r + 1]
             if len(s) == 1:
                 return 1
         return len(s)
