@@ -79,7 +79,8 @@ class Solution:
                     res = 0
                     res += pre1[ntl][top][1] - pre1[ntl][left][0]
                     res += pre1[nrb][right][1] - pre1[nrb][bottom][0]
-                    res += pre2[nbl][bottom][1] - pre2[nbl][left][0]
+                    res +=
+
                     res += pre2[ntr][right][1] - pre2[ntr][top][0]
                     res -= grid[ci - r][cj] + grid[ci + r][cj] + grid[ci][cj - r] + grid[ci][cj + r]
                     update(res)
