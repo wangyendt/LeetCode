@@ -36,6 +36,7 @@ def call_me(class_, callers, params):
     for func, param in zip(callers, params):
         if func == my_class.__name__:
             cls = my_class(*param)
+            print('null', end=',')
         else:
             res = cls.__getattribute__(func)(*param)
             prt = res if res else 'null'
