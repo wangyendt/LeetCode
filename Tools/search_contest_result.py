@@ -16,6 +16,7 @@ import requests
 import urllib.parse
 import pprint
 import json
+import pymongo
 
 
 def find(country_, contest_type_, week_no_, name_):
@@ -48,9 +49,13 @@ def find(country_, contest_type_, week_no_, name_):
         txt = json.loads(res.text)
         if not txt['total_rank']:
             break
-        for item in txt['total_rank']:
-            if name_ in item['username']:
-                return item
+        if name_:
+            for item in txt['total_rank']:
+                if name_ in item['username']:
+                    return item
+        else:
+            for item in txt['total_rank']:
+                db.insert_one(item)
         page += 1
 
 
@@ -72,4 +77,8 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    client = pymongo.MongoClient('mongodb://localhost:27017')
+    db = client['leetcode']['userinfo']
+    for res in db.find({'username': {'$regex': 'frost'}}):
+        pprint.pprint(res)
+    # main()
