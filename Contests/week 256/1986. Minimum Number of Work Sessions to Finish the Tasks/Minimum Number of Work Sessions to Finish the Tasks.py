@@ -14,13 +14,29 @@
 
 from typing import *
 import itertools
-from functools import reduce
+from functools import reduce, lru_cache
 
 import math
 
 
 class Solution:
     def minSessions(self, tasks: List[int], sessionTime: int) -> int:
+        n = len(tasks)
+
+        @lru_cache(None)
+        def dp(mask):
+            if mask == 0: return 1, 0
+            ans = (float("inf"), float("inf"))
+            for j in range(n):
+                if mask & (1 << j):
+                    pieces, last = dp(mask - (1 << j))
+                    full = (last + tasks[j] > sessionTime)
+                    ans = min(ans, (pieces + full, tasks[j] + (1 - full) * last))
+            return ans
+
+        return dp((1 << n) - 1)[0]
+
+    def minSessions2(self, tasks: List[int], sessionTime: int) -> int:
         self.ret = float('inf')
         nums = tasks
         size = len(nums)
@@ -49,7 +65,7 @@ class Solution:
                     backtrack(tmp, rem, cnt)
                     tmp.pop()
                     visited[i] = False
-                    self.sums+=nums[i]
+                    self.sums += nums[i]
 
         backtrack([], 0, 1)
 
