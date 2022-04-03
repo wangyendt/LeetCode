@@ -1,0 +1,16 @@
+Tips by Lee
+https://leetcode.com/problems/maximum-candies-allocated-to-k-children/discuss/1908888/JavaC%2B%2BPython-Binary-Search-with-Explanation
+
+Tip1. left < right Vs left <= right
+
+Check all my solution, I keep using left < right.
+The easy but important approach:
+follow and upvote my codes,
+try to do the same.
+you'll find all binary search is similar,
+never bother thinking it anymore.
+
+Tip2. mid = (left + right + 1) / 2 Vs mid = (left + right) / 2
+
+mid = (left + right) / 2 to find first element valid
+mid = (left + right + 1) / 2to find last element valid
