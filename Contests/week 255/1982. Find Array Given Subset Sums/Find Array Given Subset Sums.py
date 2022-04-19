@@ -13,7 +13,6 @@
 """
 
 from typing import *
-r
 
 
 class Solution:

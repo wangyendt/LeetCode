@@ -11,7 +11,7 @@
 
 # code is far away from bugs.
 """
-r
+
 
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:

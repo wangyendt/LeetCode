@@ -24,11 +24,9 @@ class Solution:
                     dx += 1
                 else:
                     dy += 1
-        d1,r1 = divmod(dx,2)
-        d2,r2 = divmod(dy,2)
-        ret += d1+d2+2*((r1+r2)//2)
-        return ret
-
+        d1, r1 = divmod(dx, 2)
+        d2, r2 = divmod(dy, 2)
+        ret += d1 + d2 + 2 * ((r1 + r2) // 2)
         return ret
 
 
