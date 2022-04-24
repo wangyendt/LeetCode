@@ -13,4 +13,10 @@ never bother thinking it anymore.
 Tip2. mid = (left + right + 1) / 2 Vs mid = (left + right) / 2
 
 mid = (left + right) / 2 to find first element valid
-mid = (left + right + 1) / 2to find last element valid
+left = mid + 1
+right = mid
+
+mid = (left + right + 1) / 2 to find last element valid
+left = mid
+right = mid - 1
+
