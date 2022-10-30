@@ -16,7 +16,7 @@ from typing import *
 import collections
 import sys
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from Tools.BinaryTree import *
 
 

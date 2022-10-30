@@ -16,7 +16,7 @@ import itertools
 import sys
 from typing import *
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from Tools.UnionFindSet import *
 
 

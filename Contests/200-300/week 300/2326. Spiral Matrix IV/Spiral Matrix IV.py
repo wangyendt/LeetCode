@@ -15,7 +15,7 @@
 from typing import *
 import sys
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from Tools.LinkedList import *
 
 

@@ -16,7 +16,7 @@ import collections
 import sys
 from typing import *
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from sortedcontainers import SortedList
 
 

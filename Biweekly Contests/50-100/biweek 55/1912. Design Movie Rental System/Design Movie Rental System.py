@@ -15,7 +15,7 @@
 from typing import *
 import sys
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from Tools.API_utils import *
 import collections
 from sortedcontainers import SortedList

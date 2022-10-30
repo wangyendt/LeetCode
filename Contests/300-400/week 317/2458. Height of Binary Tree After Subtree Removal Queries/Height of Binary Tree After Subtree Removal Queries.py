@@ -60,7 +60,7 @@ class Solution:
 
 import sys
 
-sys.path.append('../..')
+sys.path.append('../../..')
 from Tools.BinaryTree import *
 
 tree = parseTreeNode([5, 8, 9, 2, 1, 3, 7, 4, 6])
