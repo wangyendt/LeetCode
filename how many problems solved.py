@@ -25,8 +25,7 @@ files = list_all_files(
 )
 res = collections.defaultdict(list)
 for i, file in enumerate(files):
-    print(file)
-    no = re.findall(r'\\(\d+).*', file)[0]
+    no = re.findall(r'\\(\d+)\..*', file)[0]
     res[no].append((i, no, file))
 # tmp = sorted(res.values(),key=lambda x:len(x))
 # [print(len(t),t) for t in tmp]
