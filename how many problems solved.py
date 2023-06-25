@@ -12,20 +12,28 @@
 
 import collections
 import re
+import platform
 
 from pywayne.tools import *
 
 files = list_all_files(
     '.',
     keys_or=['.py', '.ipynb'],
-    outliers=['\\Tools\\', 'checkpoint', '\\Interview\\',
+    outliers=['checkpoint',
+              '\\Tools\\', '/Tools/',
+              '\\Interview\\', '/Interview/',
               '\\how many problems solved.py',
+              '/how many problems solved.py',
               '\\search_contest_result.py',
+              '/search_contest_result.py',
               '[not submitted]']
 )
 res = collections.defaultdict(list)
 for i, file in enumerate(files):
-    no = re.findall(r'\\(\d+)\..*', file)[0]
+    if platform.system().lower() == 'darwin':
+        no = re.findall(r'/(\d+)\..*', file)[0]
+    else:
+        no = re.findall(r'\\(\d+)\..*', file)[0]
     res[no].append((i, no, file))
 # tmp = sorted(res.values(),key=lambda x:len(x))
 # [print(len(t),t) for t in tmp]
